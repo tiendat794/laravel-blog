@@ -1,0 +1,7 @@
+
+Warning: Failed loading Zend extension ' c: \ xampp \ php \ ext \ php_xdebug.dll ' (tried: C:\xampp\php\ext\ c: \ xampp \ php \ ext \ php_xdebug.dll  (The specified module could not be found.), C:\xampp\php\ext\php_ c: \ xampp \ php \ ext \ php_xdebug.dll .dll (The specified module could not be found.)) in Unknown on line 0
+
+                                                            
+  Too many arguments, expected arguments "command" "name".  
+                                                            
+
